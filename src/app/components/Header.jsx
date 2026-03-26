@@ -12,7 +12,7 @@ export default function header() {
 
             <div>
               <h2>Taro Digital Studio</h2>
-              <h5>Simple Websites, Real Impact</h5>
+              <h5>Software & Web Development</h5>
             </div>
           </div>
 
